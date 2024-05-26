@@ -1,5 +1,5 @@
 # data-science-projects
-This is a data science projects repo
+
 
 ## Life Expectency USA
 
@@ -10,6 +10,11 @@ This is a data science projects repo
 * EDA
 * Modeling
 * Conclusion
-* References
 
-Source data [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN)
+### References
+
+* Source data [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN)
+* [Child mortality usa-guns]
+* [Gun Violence]
+* [Property Crime]
+* [Chat GPT](https://chatgpt.com/chat)
