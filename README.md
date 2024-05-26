@@ -10,3 +10,6 @@ This is a data science projects repo
 * EDA
 * Modeling
 * Conclusion
+* References
+
+Source data [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN)
